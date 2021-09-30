@@ -47,10 +47,10 @@ const FooterHeading = styled.h5`
 `;
 
 const SocialMedia = styled.div`
-  width: 10rem;
-  height: 10rem;
-  border-radius: 50%;
-  color: #000;
+  width: 4rem;
+  height: 4rem;
+  margin-right: 6rem;
+  /* border-radius: 50%; */
 `;
 
 const StyledFooterWrapper = () => {
